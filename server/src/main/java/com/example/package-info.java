@@ -1,4 +1,4 @@
 /**
 * comment
 **/
-com.package;
+com.example;
